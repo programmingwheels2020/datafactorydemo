@@ -1,0 +1,9 @@
+{
+	"name": "dfmindtreedev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bfa72ce-7fe1-4f21-8c5f-c84e00c9a4fb",
+		"tenantId": "1968b628-9d1f-4cc3-bf6a-dc790edd9f45"
+	}
+}
